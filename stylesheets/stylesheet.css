@@ -39,9 +39,23 @@ a[title="BCIT homepage"] {
     padding: 1em;
     } */
 
-img {
+/* img {
     float: left;
 }
 .below{
-    clear:left
-}
+    clear:left;
+} */
+
+.target{
+    width:50px;
+    height:50px;
+    background-color: forestgreen;
+    position:absolute;
+    top:0px;
+    right:0px;
+    }
+    
+    .container{
+    border: 2px gray solid;
+    position: relative;
+    }
