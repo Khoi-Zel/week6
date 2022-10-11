@@ -1,0 +1,12 @@
+div h2 {
+    font-style:italic;
+}
+
+div h2 ~ p {
+    color:red;
+}
+
+li.list {
+    border-bottom: 1px solid grey;
+    list-style-type: none;
+}
